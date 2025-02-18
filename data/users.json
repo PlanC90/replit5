@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "@johndoe",
+      "tasksAdded": 6,
+      "tasksSupported": 6,
+      "balance": 900000,
+      "walletAddress": "0x0000000000000000000000000000000000000000"
+    }
+  ]
+}

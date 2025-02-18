@@ -1,0 +1,16 @@
+{
+  "admins": [
+    {
+      "username": "@johndoe"
+    }
+  ],
+  "messageTemplate": {
+    "text": "@kullanıcıadı, (Platform) üzerinde bir link paylaştı!\nLütfen destek olalım.\nDestek butonu: ✅ (Platform) Görevi Destekle",
+    "imageUrl": "https://memex.planc.space/images/gorev.jpg"
+  },
+  "settings": {
+    "taskReward": 100000,
+    "supportReward": 50000
+  },
+  "telegramApiKey": "7700368269:AAH_Yyk9tTQgsHWukRDGeAZG71d17irW4R8"
+}
